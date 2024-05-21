@@ -1,6 +1,6 @@
 import React from 'react';
 import Select from 'react-select';
-import '../Styles/Navbar.css';
+import './Navbar.css';
 
 const Navbar = ({ userLang, setUserLang, userTheme,
     setUserTheme, fontSize, setFontSize }) => {
